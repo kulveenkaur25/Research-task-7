@@ -2,9 +2,9 @@
 
 ## Project Objective
 
-[cite_start]The goal of this project was to take a pre-existing or new narrative and transform it into an AI-generated “deep fake” interview[cite: 4]. [cite_start]The final output is a short video that demonstrates the capabilities of modern AI video generation tools, presented in the style of a "street interview"[cite: 6].
+The goal of this project was to take a pre-existing or new narrative and transform it into an AI-generated “deep fake” interview . The final output is a short video that demonstrates the capabilities of modern AI video generation tools, presented in the style of a "street interview".
 
-[cite_start]This document outlines the entire process, including the approach, tools used, and workflow, as the primary focus of the assignment is on the process itself rather than the final product[cite: 8].
+This document outlines the entire process, including the approach, tools used, and workflow, as the primary focus of the assignment is on the process itself rather than the final product.
 
 ## Final Product
 
@@ -14,7 +14,7 @@ The generated video, `Syracuse_Dome_Sports_Analysis.mp4`, is included in this re
 
 ### 1. Approach
 
-My approach was to simulate a realistic, news-style interview on the Syracuse University campus. [cite_start]The narrative was inspired by the assignment's example of using seasonal statistics from an SU sports team to generate recommendations[cite: 3]. The goal was to create a concise and believable interaction between an interviewer and a sports analyst.
+My approach was to simulate a realistic, news-style interview on the Syracuse University campus. The narrative was inspired by the assignment's example of using seasonal statistics from an SU sports team to generate recommendations. The goal was to create a concise and believable interaction between an interviewer and a sports analyst.
 
 ### 2. Tools Used
 
@@ -49,7 +49,6 @@ Audio should feature clear dialogue with the faint ambient sound of students wal
 
 ## Analysis and Reflection
 
-[*This is the section where you should add your personal thoughts. For example:*]
 
-The AI model was highly successful in generating a video that matched the prompt's specifications. The setting in front of the JMA Wireless Dome is accurate, the subjects are believable, and the lip-sync for the dialogue is impressively precise. One notable success was the model's ability to create a natural-looking "handheld" camera feel. A potential limitation I observed was... [
-*add another sentence or two with your own analysis of the tool or the result*]. Overall, this experiment demonstrates the remarkable speed and accuracy of current text-to-video AI technology.
+
+The AI model was highly successful in generating a video that matched the prompt's specifications. The setting in front of the JMA Wireless Dome is accurate, the subjects are believable, and the lip-sync for the dialogue is impressively precise. One notable success was the model's ability to create a natural-looking "handheld" camera feel. Overall, this experiment demonstrates the remarkable speed and accuracy of current text-to-video AI technology.
