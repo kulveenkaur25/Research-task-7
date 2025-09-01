@@ -32,8 +32,6 @@ The project was executed in a four-step workflow:
 
 ### 4. Supporting Materials
 
-[cite_start]This repository includes all required supporting materials[cite: 16].
-
 * **Video File:** `Syracuse_Dome_Sports_Analysis.mp4`
 * **Script and Prompt:** The final, detailed prompt used for generation is provided below:
 
