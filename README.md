@@ -13,23 +13,13 @@ The focus is on **process transparency** and **reproducibility** rather than the
 ```
 Task_07_Decision_Making/
 │
-├── report/
 │   ├── Task_07_Decision_Report.docx     # Full report (Word)
 │
-├── data/
 │   ├── combined_summary_stats.csv       # Aggregated 2023 NFL season stats
 │
-├── notebooks/
 │   ├── Research_task.ipynb              # Notebook with descriptive stats, validations, and visualizations
 │
-├── prompts/
 │   ├── prompts.md                       # Task 5 prompts and responses
-│
-├── outputs/
-│   ├── Syracuse_Dome_Sports_Analysis.mp4  # Deep fake video output (if small enough to host)
-│   ├── td_leaders.png                     # Visualization: touchdowns
-│   ├── yards_per_play.png                 # Visualization: yards per play
-│   ├── season_highlights.png              # Visualization: season highlights
 │
 ├── README.md
 ```
